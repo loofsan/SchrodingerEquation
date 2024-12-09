@@ -37,3 +37,16 @@ To provide a graphical representation, I generated heatmaps for the probability 
 ## Conclusion
 
 This study highlights the quantized nature of energy in confined systems and the significance of potential barrier characteristics in determining energy states. It demonstrates the fundamental principles of quantum mechanics through the analysis and visualization of solutions to the Schrödinger equation.
+
+## Running The Program
+- Git Clone this repository
+- Run the first file
+- It should output a file called data_E_vectors...
+- Then, run the second file. All the pngs should be saved on the computer.
+
+### Required Modules
+- numpy
+- matplotlib
+- scipy
+- math
+- PIL
